@@ -1,11 +1,11 @@
 ### Hi there 👋
+![GitHub persona](https://read-413014.an.r.appspot.com/create?username=shiori-42)
 
 <!--
 **shiori-42/shiori-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-![GitHub persona](https://read-413014.an.r.appspot.com/create?username=shiori-42)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
