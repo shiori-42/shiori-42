@@ -1,6 +1,5 @@
 ### Hi there 👋
-![GitHub Persona](https://read-413014.an.r.appspot.com/create?username=shiori-42
-
+![GitHub persona](https://read-413014.an.r.appspot.com/create?username=shiori-42)
 <!--
 **shiori-42/shiori-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
